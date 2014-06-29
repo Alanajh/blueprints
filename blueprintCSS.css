@@ -1,0 +1,64 @@
+
+a:visited{
+	color:#00ff00;
+	text-decoration: none;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:active{
+	text-decoration: underline;
+}
+
+body{
+	background-color: #0000cc;
+	color: #6666ff;
+	margin-left: 60px;
+	margin-right: 90px;
+
+	}
+.body{
+	background-color: #000099;
+	margin: 40px;
+	margin-top: 0px;
+	padding: 20px;
+	}
+footer{ <!-- center the footer -->
+	margin-left: auto; 
+    margin-right: auto;
+    width: 60%;
+	}
+.head{
+	background-color: #000099;
+	border: 5px solid;
+	margin: 30px;
+	}
+.head h2{
+	margin-left: 40px;
+	}
+hr{	
+	position: relative;
+	width: 90%;
+	left: 0px;
+	}
+.images{
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+	}
+.mainShop{
+	
+	}
+.menu{
+	margin: 25px;
+	}
+#wright:hover{
+	position: relative;
+	-webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+	transition: width 2s, height 2s;
+   	width: 100%;
+   	height: 70%;
+   	}
